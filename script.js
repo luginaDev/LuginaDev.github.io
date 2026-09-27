@@ -7,8 +7,8 @@
    Fill these in. Any link left empty is shown as disabled. */
 const CONTACT = {
   email: "muhamadluginanurhuda@gmail.com",
-  linkedin: "www.linkedin.com/in/lugina-nurhuda", // e.g. "https://www.linkedin.com/in/your-profile"
-  github: "https://github.com/luginaDev/",   // e.g. "https://github.com/your-username"
+  linkedin: "https://www.linkedin.com/in/lugina-nurhuda",
+  github: "https://github.com/luginaDev",
 };
 
 /* ---------- Project case studies (modal content) ---------- */
